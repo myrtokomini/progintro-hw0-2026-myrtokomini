@@ -7,3 +7,4 @@ byte 4: the_triwizard_cup_is_yours_watch_out_for_the_horntail
 byte 5: sdi2600079_1793207619_833494765_79_130_27_108_50158_22
 byte 6: unzip_whenever_you_feel_a_little_compressed
 byte 7: tar_jokes_wont_stick
+byte 8: there_s_more_than_what_meets_the_eye
