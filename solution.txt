@@ -10,7 +10,7 @@ byte 7: tar_jokes_wont_stick
 byte 8: there_s_more_than_what_meets_the_eye
 byte 9: you_re_on_the_right_path
 byte 10: Angy
-byte 11: 45 Peta
+byte 11: Peta
 byte 12: which_command_is_the_best
 byte 13: descriptive_git_commit_messages_are_great
 byte 14: copy_paste_the_fastest_way_to_introduce_bugs_you_dont_understand
