@@ -11,3 +11,4 @@ byte 8: there_s_more_than_what_meets_the_eye
 byte 9: you_re_on_the_right_path
 byte 10: Angy
 byte 11: 45 Peta
+byte 12: which_command_is_the_best
