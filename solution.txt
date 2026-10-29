@@ -14,3 +14,4 @@ byte 11: Peta
 byte 12: which_command_is_the_best
 byte 13: descriptive_git_commit_messages_are_great
 byte 14: copy_paste_the_fastest_way_to_introduce_bugs_you_dont_understand
+byte 15: the_exit_code_is_42
